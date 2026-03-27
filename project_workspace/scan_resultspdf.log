@@ -1,0 +1,875 @@
+Processing
+Processing L
+Processing
+Processing
+Processing
+Processing V
+Processing
+Processing CMD:
+Processing elif
+Processing elif
+Processing
+Processing
+Processing
+Processing BUG_FOUNDCMD:
+Processing BUG_FOUDCMD:
+Processing BUG_FOURUN:DCMD:
+Processing BUG_FOURUN2DCMD:
+Processing :
+Processing :
+Processing ͍:
+Processing ͍0:
+Processing
+Processing FMTMT:MT::T
+Processing FMVMT:MT::T
+🌟 NEW UNIQUE BUG DISCOVERED: PY-ConnectionError 🌟
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+🌟 NEW UNIQUE BUG DISCOVERED: PY-EOFError 🌟
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+🌟 NEW UNIQUE BUG DISCOVERED: PY-ValueError 🌟
+🌟 NEW UNIQUE BUG DISCOVERED: PY-03 🌟
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+🌟 NEW UNIQUE BUG DISCOVERED: PY-10 🌟
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+🌟 NEW UNIQUE BUG DISCOVERED: PY-UnpicklingError 🌟
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+V
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+'
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+'ADMIN_AOPE
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+'ADMIN_ATYPEOPE
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+MMMMMMMMMM
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+MMMMMM
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+MMMMM
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+ADMIN_A
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+    ?   
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+ADMIN_ACCE  S  
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+ADMIN  
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+T
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+Processing
+Processing ECRE
+Processing
+Processing L
+Processing
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+FMT:
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+&
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+*
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+ 
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+2
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+3
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+																								
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+																							
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+				
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+				
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+			
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+Processing
+Processing DMB:
+Processing DMB:
+Processing
+Processing
+Processing
+Processing Template
+Processing Template
+Processing Template
+Processing Template
+Processing TT
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+            
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+            
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+:
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+ET
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+FEMTT:
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+C
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+C
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+C
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+C
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+Processing MD:
+Processing
+Processing
+Processing ]D
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+V
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+xx?xxxxxxxxxxxxxxxxx
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+xx?x xxxxxxxxxxxxxx
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+xx?| xxxxxxxxxxxTxxx
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+ 
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-05 | TYPE: Template Injection | STATUS: EXPLOITED
+
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-01 | TYPE: Command Injection | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+KeyboardInterrupt: stopping.
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-03 | TYPE: Logic Leak | STATUS: EXPLOITED
+[SECRET] Key: PY-ZDR-9922
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-04 | TYPE: Subprocess RCE | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-02 | TYPE: Deserialization | STATUS: EXPLOITED
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
+[BUG_FOUND] ID:PY-06 | TYPE: Deep Logic Breach
